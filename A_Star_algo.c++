@@ -278,8 +278,8 @@ int main()
         cout<<" HeY THeRe WaNNa GO SOMEWHERE (Y/N) --->>> ";
         run_algo = getche();
     }
-    // cout<<" \n Project BY Ibrahim Asif & M Hamza Baig "<<endl;
-    // cout<<" Submitted to Shahmin Sharafat "<<endl;
-    // cout<<"\n SeE YaAAAAA  :)"<<endl;
+    cout<<" \n Project BY M Hamza Baig "<<endl;
+    cout<<" Submitted to Shahmin Sharafat "<<endl;
+    cout<<"\n SeE YaAAAAA  :)"<<endl;
 
 }
